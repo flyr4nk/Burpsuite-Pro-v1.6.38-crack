@@ -27,3 +27,5 @@ Burp Suite 是用于攻击web 应用程序的集成平台。它包含了许多�
 10.Extender(扩展)——可以让你加载Burp Suite的扩展，使用你自己的或第三方代码来扩展Burp Suit的功能。
 
 11.Options(设置)——对Burp Suite的一些设置
+
+blog：https://www.hackfun.org/
